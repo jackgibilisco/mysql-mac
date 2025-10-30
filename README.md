@@ -1,4 +1,7 @@
 # Build Instructions for macos arm
+###### By Jack Gibilisco
+
+[Video](https://youtu.be/J4L8J32IOgE)
 
 If you somehow don't have xcode commandline tools yet, install them with
 
