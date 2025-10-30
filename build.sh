@@ -1,4 +1,4 @@
-MYSQL=/usr/local/mysql-connector-c++-9.5.0
+MYSQL=CONN_LOC
 
 clang++ sql.cpp -o app \
     -std=c++17 -stdlib=libc++ \
